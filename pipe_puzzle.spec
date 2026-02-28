@@ -28,7 +28,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='pipe_game',
+    name='pipe_puzzle',
     debug=False,
     bootloader_ignore_signals=False,
     strip=True,

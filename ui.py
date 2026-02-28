@@ -20,9 +20,9 @@ def get_config_dir():
     """
     if os.name == 'nt':  # Windows
         appdata = os.environ.get('APPDATA', os.path.expanduser('~'))
-        config_dir = os.path.join(appdata, 'PipeGame')
+        config_dir = os.path.join(appdata, 'PipePuzzle')
     else:  # Linux/Mac
-        config_dir = os.path.expanduser('~/.config/pipegame')
+        config_dir = os.path.expanduser('~/.config/pipepuzzle')
     
     if not os.path.exists(config_dir):
         os.makedirs(config_dir)
